@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : DBP30-01 - Dobradiça nylon 30mm
+Receiving System Product I.D.: DBP30-01 - Dobradiça nylon 30mm
+File Name                    : Z:\20. PD&I\Biblioteca Servidor PDI\Componentes para perfil\Dobradiças\DBP30-01\4. IGS-STL\DBP30-01 - Dobradiça nylon 30mm.IGS
+Sending System               : SolidWorks 2019
+Preprocessor Version         : SolidWorks 2019
+File Creation Date           : 220715.104603
+Model Creation Date          : 220715.104603
+Units                        : MM
+Model Space Scale            : 1
+Author                       : ludimylla.sousa
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               2
+  Highest number of significant digits:                     11
+  Average number of significant digits:                3.92224
+  Maximum distance to origin:                          1427.92
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   11
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            160       160
+102  Composite curve                                170       170
+110  Line                                           266       266
+120  Surface of revolution                           38        38
+124  Transformation matrix                          114       114
+126  Rational B-spline curve                        375       375
+128  Rational B-spline surface                       31        31
+142  Curve on a parametric surface                   85        85
+144  Trimmed parametric surface                      69        69
+314  Color definition                                70        70
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       3
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Saturday, July 16, 2022 12:56:10
+Finish time: Saturday, July 16, 2022 12:56:11
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
